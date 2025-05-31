@@ -1,0 +1,37 @@
+.navbar{
+    background-color:rgb(226, 233, 227);
+    padding: 7px;
+    text-align: center;
+}
+.imgbar{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+
+
+}
+.img-item{
+    text-align: center;
+
+}
+.img-item img{
+    border-radius: 10px;
+}
+
+#table1{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#table-header{
+    background-color: rgb(226, 233, 227);
+    
+}
+
+.cap{
+    font-style: italic;
+}
+#foot{
+    background-color: rgb(226, 233, 227);
+    
+}
